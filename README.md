@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+node.js version - 20.9.0
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
