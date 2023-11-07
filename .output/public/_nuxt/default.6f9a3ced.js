@@ -1,0 +1,1 @@
+import{_ as o}from"./nuxt-link.fae01965.js";import{_ as n,c as s,a as e,b as r,w as c,I as _,F as l,o as d,d as m}from"./entry.0b5d7808.js";const u={};function f(t,i){const a=o;return d(),s(l,null,[e("nav",null,[r(a,{to:"/"},{default:c(()=>[m("Home")]),_:1})]),e("main",null,[_(t.$slots,"default")])],64)}const N=n(u,[["render",f]]);export{N as default};
